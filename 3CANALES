@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE HD" tvg-logo="" group-title="ADULTOS",PENTHOUSE HD
+http://167.99.12.182:8080/jellyfin1/sOnIx8nAuM/12
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE TV HD" tvg-logo="" group-title="ADULTOS",PRIVATE TV HD
+http://167.99.12.182:8080/jellyfin1/sOnIx8nAuM/13
+#EXTINF:-1 tvg-id="" tvg-name="PASSIE XXX:HD" tvg-logo="" group-title="ADULTOS",PASSIE XXX:HD
+http://167.99.12.182:8080/jellyfin1/sOnIx8nAuM/14
